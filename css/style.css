@@ -1,6 +1,7 @@
 .header{
 	height: 50px;
-	background-color: red;
+	background-color: #dddddd;
+	text-align: center;
 }
 .container{
 	overflow: hidden;
