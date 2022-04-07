@@ -1,0 +1,41 @@
+.header{
+	height: 50px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+	border: 5px solid skyblue;
+}
+.blog{
+	height: 150px;
+	background-color: black;
+	width: 30%;
+	float: left;
+}
+.contact{
+	height: 150px;
+	background-color: green;
+	width: 70%;
+	float: right;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	height: 100px;
+	width: 33.33%;
+	float: left;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.footer{
+	height: 100px;
+	background-color: yellow;
+}
